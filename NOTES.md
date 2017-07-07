@@ -1,4 +1,4 @@
-# Notes on Wepack
+# Notes on Webpack
 
 ### Concepts
 
