@@ -46,3 +46,5 @@ plugins: [
 ]
 ```
 [Read more about plugins here](https://webpack.js.org/concepts/plugins).
+
+[Next](./NOTES-ENTRY.md)
