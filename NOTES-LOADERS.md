@@ -26,3 +26,7 @@ You can use a loader by setting in in the config (above), inline, or with the CL
 Loaders can be chained, synchronous or asynchronous, run in Node.js, accept quesry params, and a few other features
 
 [Read more about Loaders Here](https://webpack.js.org/concepts/loaders).
+
+---
+
+[Previous](./NOTES-OUTPUT.md) || [Next](./NOTES-PLUGINS.md)

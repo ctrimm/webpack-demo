@@ -43,3 +43,7 @@ module.exports = config;
 ```
 
 [Read more about Plugins Here](https://webpack.js.org/concepts/plugins).
+
+---
+
+[Previous](./NOTES-LOADERS.md) || [Next](./NOTES-CONFIGURATION.md)

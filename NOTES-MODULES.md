@@ -17,3 +17,7 @@ Follows the module programming architecture.
 Webpack supports a handful of different languages and preprocessors via _loaders_. (like CoffeeScript, TypeScript, Babel, Sass, Less, & Stylus)
 
 [Read more about Modules Here](https://webpack.js.org/concepts/modules).
+
+---
+
+[Previous](./NOTES-CONFIGURATION.md) || [Next](./NOTES-MODULE_RESOLUTION.md)

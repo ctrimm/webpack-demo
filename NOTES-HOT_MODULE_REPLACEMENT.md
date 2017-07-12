@@ -20,3 +20,8 @@ Hot Module Replacement (HMR) exchanges, adds, or removes modules while an applic
 *In the Runtime* - A bit technical, can [read more here](https://webpack.js.org/concepts/hot-module-replacement/#in-the-runtime).
 
 [Read more about Hot Module Replacements Here](https://webpack.js.org/concepts/hot-module-replacement/).
+
+
+---
+
+[Previous](./NOTES-TARGETS.md)

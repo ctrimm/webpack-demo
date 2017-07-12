@@ -31,3 +31,7 @@ const config = {
 The above would write to `./dist/app.js` and `./dist/search.js`.
 
 [Read more about Output Here](https://webpack.js.org/concepts/output).
+
+---
+
+[Previous](./NOTES-ENTRY.md) || [Next](./NOTES-LOADERS.md)

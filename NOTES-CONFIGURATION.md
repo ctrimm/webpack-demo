@@ -30,3 +30,8 @@ Don't forget that you can also export multiple configurations/targets.
 Finally, you can also write config files in multiple programming and data languages.
 
 [Read more about Configuration Here](https://webpack.js.org/concepts/configuration).
+
+
+---
+
+[Previous](./NOTES-PLUGINS.md) || [Next](./NOTES-MODULES.md)

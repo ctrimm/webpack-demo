@@ -16,3 +16,7 @@ Using `enhanced-resolve` we can resolve three kinds of paths -
 You can use the `resolveLoader` just like file resolution.
 
 [Read more about Module Resolution Here](https://webpack.js.org/concepts/module-resolution/.
+
+---
+
+[Previous](./NOTES-MODULES.md) || [Next](./NOTES-DEPENDENCY.md)

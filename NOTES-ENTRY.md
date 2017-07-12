@@ -34,3 +34,7 @@ const config = {
 *Note* - This is more verbose - making it scalable, able to separate by environment, build targets, & runtime.
 
 [Read more about Entry Points Here](https://webpack.js.org/concepts/entry-points).
+
+---
+
+[Previous](./NOTES.md) || [Next](./NOTES-OUTPUT.md)

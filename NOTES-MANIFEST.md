@@ -17,3 +17,7 @@ The compiler enters, resolves, & maps out your application. The notes it keeps o
 Ths magic happens behind the scenes and usually doesn't affect the end user (being you). However, if you want to utilize caching, the manifest is important to know about. Read more about [the manifest & managing built files here](https://webpack.js.org/guides/output-management/#the-manifest)
 
 [Read more about The Manifest Here](https://webpack.js.org/concepts/manifest/).
+
+---
+
+[Previous](./NOTES-DEPENDENCY.md) || [Next](./NOTES-TARGETS.md)
